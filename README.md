@@ -16,6 +16,7 @@
 ![C](https://img.shields.io/badge/-C-000?&logo=C)
 ![C++](https://img.shields.io/badge/-C++-000?&logo=c%2b%2b)
 ![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
+![Java](https://img.shields.io/badge/Java-000?&logo=openjdk&logoColor=orange)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
 
 ### 𝗧𝗲𝗰𝗵𝗻𝗼𝗹𝗼𝗴𝗶𝗲𝘀 
@@ -25,7 +26,7 @@
 
 ### Embedded Systems Projects
 
-[![Satellite Simulation](https://img.shields.io/badge/-%20Satellite%20Simulation-000?&logo=Raspberry-Pi)](https://github.com/Etoilaria/Raspberry-Pi-Satellite-Simulation)
+[![Satellite Simulation](https://img.shields.io/badge/-%20Satellite%20Simulation-000?&logo=Raspberry-Pi&logoColor=red)](https://github.com/Etoilaria/Raspberry-Pi-Satellite-Simulation)
   
 ### Software Projects
 
