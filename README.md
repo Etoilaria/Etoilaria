@@ -1,13 +1,27 @@
-![](./profile-header.gif)
+<p align="center">
+  
+  ![](./profile-header.gif)
 
-### About
-### Languages
-![C](https://img.shields.io/badge/-C-000?&logo=C)
-![C++](https://img.shields.io/badge/-C++-000?&logo=c%2b%2b&logoColor=00599C)
-![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
-![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
+</p>
+<p align="center">
+  |𝘊𝘰𝘮𝘱𝘶𝘵𝘦𝘳 𝘌𝘯𝘨𝘪𝘯𝘦𝘦𝘳𝘪𝘯𝘨 𝘢𝘵 𝘛𝘰𝘳𝘰𝘯𝘵𝘰 𝘔𝘦𝘵𝘳𝘰𝘱𝘰𝘭𝘪𝘵𝘢𝘯 𝘜𝘯𝘪𝘷𝘦𝘳𝘴𝘪𝘵𝘺|
+</p>
 
+### 𝗘𝗺𝗯𝗲𝗱𝗱𝗲𝗱 𝗦𝗼𝗳𝘁𝘄𝗮𝗿𝗲 & 𝗛𝗮𝗿𝗱𝘄𝗮𝗿𝗲 𝗗𝗲𝘃𝗲𝗹𝗼𝗽𝗲𝗿
 
+𝘛𝘰𝘳𝘰𝘯𝘵𝘰, 𝘊𝘢𝘯𝘢𝘥𝘢 | 𝘑𝘰𝘦𝘭𝘭𝘦.𝘷𝘪𝘳𝘢𝘺@𝘨𝘮𝘢𝘪𝘭.𝘤𝘰𝘮
+  
+### 𝗟𝗮𝗻𝗴𝘂𝗮𝗴𝗲𝘀
+- ![](./profile-header.gif)
+- ![](./profile-header.gif)
+- ![](./profile-header.gif)
+- ![](./profile-header.gif)
+  
+### 𝗧𝗲𝗰𝗵𝗻𝗼𝗹𝗼𝗴𝗶𝗲𝘀
+- Linux
+- Node.js
+- React
+  
 
 <!--
 **Etoilaria/Etoilaria** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
