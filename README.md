@@ -4,7 +4,7 @@
 
 </p>
 <p align="center">
-  𝗘𝗺𝗯𝗲𝗱𝗱𝗲𝗱 𝗦𝗼𝗳𝘁𝘄𝗮𝗿𝗲 & 𝗛𝗮𝗿𝗱𝘄𝗮𝗿𝗲 𝗗𝗲𝘃𝗲𝗹𝗼𝗽𝗲𝗿
+  𝗘𝗺𝗯𝗲𝗱𝗱𝗲𝗱 𝗦𝘆𝘀𝘁𝗲𝗺𝘀 & 𝗦𝗼𝗳𝘁𝘄𝗮𝗿𝗲 𝗗𝗲𝘃𝗲𝗹𝗼𝗽𝗲𝗿
 </p>
 
 <p align="center">
@@ -13,27 +13,24 @@
 
 ### 𝗟𝗮𝗻𝗴𝘂𝗮𝗴𝗲𝘀
 
-𝘊 | 𝘊++ | 𝘑𝘢𝘷𝘢 | 𝘑𝘢𝘷𝘢𝘴𝘤𝘳𝘪𝘱𝘵 | 𝘗𝘺𝘵𝘩𝘰𝘯
+![C](https://img.shields.io/badge/-C-000?&logo=C)
+![C++](https://img.shields.io/badge/-C++-000?&logo=c%2b%2b)
+![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
+![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
 
 ### 𝗧𝗲𝗰𝗵𝗻𝗼𝗹𝗼𝗴𝗶𝗲𝘀 
+![Raspberry Pi](https://img.shields.io/badge/-Raspberry%20Pi-000?&logo=Raspberry-Pi)
+![Linux](https://img.shields.io/badge/-Linux-000?&logo=Linux)
+![Git](https://img.shields.io/badge/-Git-000?&logo=Git)
 
-𝘪𝘯𝘶𝘹 | 𝘕𝘰𝘥𝘦.𝘫𝘴 | 𝘙𝘦𝘢𝘤𝘵
+### Embedded Systems Projects
+
+[![Satellite Simulation](https://img.shields.io/badge/-%20Satellite%20Simulation-000?&logo=Raspberry-Pi)](https://github.com/Etoilaria/Raspberry-Pi-Satellite-Simulation)
   
+### Software Projects
 
+[![Volcano Simulation](https://img.shields.io/badge/-%20Volcano%20Simulation-000?&logo=Python)](https://github.com/Etoilaria/Volcano-Simulation)
+[![Nibble Axolotl Game](https://img.shields.io/badge/-%20Nibble%20Axolotl%20Game-000?&logo=Python)](https://github.com/Etoilaria/Nibble-Axolotl-Game)
+[![Basic Calculator](https://img.shields.io/badge/-%20Basic%20Calculator-000?&logo=JavaScript)](https://github.com/Etoilaria/Basic-Calculator)
 
   
-
-<!--
-**Etoilaria/Etoilaria** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
