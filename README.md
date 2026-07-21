@@ -1,4 +1,4 @@
-![](file:///Users/joey/Desktop/profile-header.gif)
+![](./profile-header.gif)
 
 ### About
 ### Languages
