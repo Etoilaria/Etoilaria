@@ -16,23 +16,23 @@
 </p>
 
 
-### 𝗟𝗮𝗻𝗴𝘂𝗮𝗴𝗲𝘀
+### 𝗟𝗮𝗻𝗴𝘂𝗮𝗴𝗲𝘀 ˚𖥔
 
 ![C](https://img.shields.io/badge/-C-000?&logo=C)
 ![C++](https://img.shields.io/badge/-C++-000?&logo=c%2b%2b)
 ![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
 
-### 𝗧𝗲𝗰𝗵𝗻𝗼𝗹𝗼𝗴𝗶𝗲𝘀 
+### 𝗧𝗲𝗰𝗵𝗻𝗼𝗹𝗼𝗴𝗶𝗲𝘀 ˚𖥔
 ![Raspberry Pi](https://img.shields.io/badge/-Raspberry%20Pi-000?&logo=Raspberry-Pi)
 ![Linux](https://img.shields.io/badge/-Linux-000?&logo=Linux)
 ![Git](https://img.shields.io/badge/-Git-000?&logo=Git)
 
-### Embedded Systems Projects
+### 𝗘𝗺𝗯𝗲𝗱𝗱𝗲𝗱 𝗦𝘆𝘀𝘁𝗲𝗺𝘀 𝗣𝗿𝗼𝗷𝗲𝗰𝘁𝘀 ˚𖥔
 
 [![Satellite Simulation](https://img.shields.io/badge/-%20Satellite%20Simulation-000?&logo=Raspberry-Pi&logoColor=red)](https://github.com/Etoilaria/Raspberry-Pi-Satellite-Simulation)
   
-### Software Projects
+### 𝗦𝗼𝗳𝘁𝘄𝗮𝗿𝗲 𝗣𝗿𝗼𝗷𝗲𝗰𝘁𝘀 ˚𖥔
 
 [![Volcano Simulation](https://img.shields.io/badge/-%20Volcano%20Simulation-000?&logo=Python)](https://github.com/Etoilaria/Volcano-Simulation)
 [![Nibble Axolotl Game](https://img.shields.io/badge/-%20Nibble%20Axolotl%20Game-000?&logo=Python)](https://github.com/Etoilaria/Nibble-Axolotl-Game)
